@@ -1,14 +1,43 @@
 What is /*?
-is it important to include comment line to all the lines of the program?
+To write the meaning of the program line or any other addiional information like program name,what the program will do,programmer name, etc, which shold not be executed 
+
+Is it important to include comment line to all the lines of the program?
+depends on user need.If the program should be understandable easily, you can include comment line for all the line of program
+
 Can it be included in the same line as that of Program statement?
+yes, you can include. but be carefull while giving it in the begining because it may converet the entire line to comment line and may make executable line not to execute
+
 how to include single Comment line?
+// Welcome to c Programm//
+
 is there any other syntax or rules i should follow?
+try not to  include speacial characters inside the comment line
+
 What is #include?
+statement to include a header files which contians prototype of the functions 
+
 why it is # at the begining, cant it be any other character?
+it is a pre procesor directive to execute that header file
+
 What is stdio.h?
+standard input output header file which contains the declaration of input output functions whose code is available in library 
+
 What are the other header files Available?
+there are many specific for requirement 
+math.h
+conio.h
+etc
+
 What is main means?
+the point where the program should start its execution
+
 meaning of void?
+nothing, which means the function returs no data 
+
 what is return 0, cant it be return 2?
+
 Why to use ! inside printf?
+what ever we include within double quotes will reflect same in the output also, Hence ! WILL BE PRINTED AS IT IS
+
 why not main function is terminated with semicolon?
+semi colon is used to terminate the line of code. If main function is terminated then it will not execute the lines within the same main function 
