@@ -1,0 +1,14 @@
+What is /*?
+is it important to include comment line to all the lines of the program?
+Can it be included in the same line as that of Program statement?
+how to include single Comment line?
+is there any other syntax or rules i should follow?
+What is #include?
+why it is # at the begining, cant it be any other character?
+What is stdio.h?
+What are the other header files Available?
+What is main means?
+meaning of void?
+what is return 0, cant it be return 2?
+Why to use ! inside printf?
+why not main function is terminated with semicolon?
